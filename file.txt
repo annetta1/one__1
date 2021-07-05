@@ -8,3 +8,5 @@ name = input("Как Вас зовут? ")
 print("Привет,", name)
 
 print()
+
+NEW LINE to reset
